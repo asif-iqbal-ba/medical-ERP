@@ -1,0 +1,16 @@
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\bin\Debug\MEDICAL ERP.exe
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\bin\Debug\MEDICAL ERP.pdb
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\bin\Debug\MEDICAL ERP.xml
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\MEDICAL_ERP.Form1.resources
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\MEDICAL_ERP.Resources.resources
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\MEDICAL ERP.vbproj.GenerateResource.Cache
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\MEDICAL ERP.exe
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\MEDICAL ERP.xml
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\MEDICAL ERP.pdb
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\MEDICAL_ERP.Form2.resources
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\MEDICAL_ERP.frm_mr.resources
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\bin\Debug\MEDICAL ERP.exe.config
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\MEDICAL_ERP.frm_rpt.resources
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\RdlCompile.cache
+C:\Users\AAC\Documents\Visual Studio 2008\Projects\MEDICAL ERP\MEDICAL ERP\obj\Debug\RdlCompile.compiled
